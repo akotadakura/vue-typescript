@@ -15,5 +15,18 @@
   "bugs": {
     "url": "https://github.com/akotadakura/vue-typescript/issues"
   },
-  "homepage": "https://github.com/akotadakura/vue-typescript#readme"
+  "homepage": "https://github.com/akotadakura/vue-typescript#readme",
+  "devDependencies": {
+    "ts-loader": "^8.0.7",
+    "typescript": "^4.0.5",
+    "webpack": "^5.3.2",
+    "webpack-cli": "^4.1.0",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "dependencies": {
+    "vue": "^3.0.2",
+    "vue-class-component": "^8.0.0-beta.4",
+    "vue-router": "^4.0.0-rc.1",
+    "vuex": "^4.0.0-rc.1"
+  }
 }
