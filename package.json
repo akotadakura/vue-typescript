@@ -1,0 +1,19 @@
+{
+  "name": "vue-typescript",
+  "version": "1.0.0",
+  "description": "vue3.0 with typescript trial",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akotadakura/vue-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akotadakura/vue-typescript/issues"
+  },
+  "homepage": "https://github.com/akotadakura/vue-typescript#readme"
+}
